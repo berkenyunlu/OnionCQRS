@@ -17,6 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Core\OnionCQRS.Application\OnionCQRS.Application.csproj" />
     <ProjectReference Include="..\..\Core\OnionCQRS.Domain\OnionCQRS.Domain.csproj" />
   </ItemGroup>
 
